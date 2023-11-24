@@ -1,21 +1,21 @@
 {
     "manifest": {
-        "author": "Mishan_Ya#6500",
-        "name": "One-Color Monet :D",
-        "version": "2.6.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/mishan-ya\/AliUwUcordTheme3000\/main\/OneColorMonet\/one-color%20monet%202023%20%F0%9F%97%BF.json"
+        "author": "zell",
+        "name": "One-Color Monet Zell",
+        "version": "2.6.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/jiatern\/AliUwUcordTheme3000\/main\/OneColorMonet\/one-color%20monet%202023%20%F0%9F%97%BF.json"
     },
     "background": {},
     "fonts": {
-        "*": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
-        "ginto_bold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Bold.ttf",
-        "ginto_medium": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
-        "ginto_regular": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Regular.ttf",
-        "whitney_semibold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
-        "whitney_medium": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
-        "whitney_bold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Bold.ttf",
-        "roboto_medium_numbers": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
-        "sourcecodepro_semibold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf"
+        "*": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "ginto_bold": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "ginto_medium": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "ginto_regular": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "whitney_medium": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "whitney_bold": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "roboto_medium_numbers": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/jiatern\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/ggsansMedium.ttf"
     },
     "simple_colors": {
         "background": "system_neutral1_900",
